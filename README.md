@@ -1,16 +1,28 @@
 # PDF Manager Debotz
 
-PDF Manager Debotz adalah aplikasi desktop sederhana yang memungkinkan pengguna mengonversi file PDF menjadi gambar berkualitas tinggi dalam format **PNG** dan **JPG/JPEG** dengan cepat dan mudah.
+PDF Manager Debotz adalah aplikasi desktop dengan desain antarmuka bergaya **Neo-Brutalism** yang interaktif. Aplikasi ini memungkinkan pengguna untuk mengonversi file PDF menjadi gambar berkualitas tinggi dalam format **PNG** dan **JPG/JPEG** dengan cepat, mudah, dan aman.
 
-## ✨ Fitur
+## 🚀 Perdana Release v1.8.6
 
-* Konversi PDF ke PNG
-* Konversi PDF ke JPG/JPEG
-* Mendukung PDF dengan banyak halaman
-* Proses konversi cepat dan ringan
-* Antarmuka sederhana dan mudah digunakan
-* Hasil gambar berkualitas tinggi
-* Berjalan secara offline tanpa koneksi internet
+Dengan bangga kami mempersembahkan **PDF Manager Debotz v1.8.6**, rilis perdana yang dirancang untuk memberikan pengalaman pengelolaan dan konversi dokumen PDF yang lebih mudah, cepat, dan efisien.
+
+Versi ini menghadirkan berbagai fitur unggulan seperti konversi PDF ke PNG/JPG berkualitas tinggi, ekspor halaman pilihan, riwayat file pintar, pembaruan aplikasi langsung dari GitHub, serta berbagai peningkatan stabilitas dan pengalaman pengguna.
+
+Terima kasih telah menggunakan PDF Manager Debotz. Nantikan pembaruan dan fitur menarik berikutnya!
+
+---
+
+## ✨ Fitur Unggulan
+
+* **Konversi Cepat & Berkualitas:** Ekspor halaman PDF ke resolusi tinggi (PNG atau JPG).
+* **Ekspor Pilihan (Selective Export):** Bebas memilih halaman tertentu saja yang ingin diekspor.
+* **Smart Auto-Folder:** Otomatis membuatkan folder khusus jika mengekspor lebih dari 1 halaman agar file tetap rapi.
+* **Riwayat Cerdas (History):** Menyimpan daftar 5 PDF terakhir yang dibuka untuk akses cepat di masa mendatang.
+* **In-App Update Checker:** Fitur bawaan untuk mengecek dan mengunduh versi terbaru aplikasi langsung dari GitHub tanpa perlu buka browser.
+* **Akses Cepat Folder:** Tombol "Buka Folder" langsung dari pop-up notifikasi setelah proses ekspor selesai.
+* **Offline Ready:** Berjalan sepenuhnya tanpa internet (kecuali untuk fitur Cek Pembaruan).
+
+---
 
 ## 📋 System Requirements
 
@@ -34,61 +46,64 @@ PDF Manager Debotz adalah aplikasi desktop sederhana yang memungkinkan pengguna 
 | Storage          | 500 MB ruang kosong                           |
 | Display          | Resolusi 1920 × 1080                          |
 
+---
+
 ## 🚀 Cara Menggunakan
 
 1. Jalankan aplikasi **PDF Manager Debotz**.
-2. Klik tombol **Pilih File PDF**.
-3. Pilih file PDF yang ingin dikonversi.
-4. Tentukan format output:
+2. Klik tombol **PILIH FILE PDF** (Atau klik file dari menu **Riwayat** di sebelah kiri jika pernah membuka file sebelumnya).
+3. Halaman preview dokumen akan langsung muncul di layar utama.
+4. Pada panel sebelah kanan, pilih metode ekspor yang Anda inginkan:
 
-   * PNG
-   * JPG/JPEG
-5. Pilih folder penyimpanan hasil.
-6. Klik **Convert**.
-7. Tunggu proses selesai.
-8. Hasil gambar akan tersimpan pada folder yang dipilih.
+   * **PNG FORMAT** (Mengekspor seluruh halaman ke format PNG)
+   * **JPG FORMAT** (Mengekspor seluruh halaman ke format JPG)
+   * **EKSPOR PILIHAN** (Pilih secara manual halaman mana saja yang ingin diekspor)
+5. Pilih folder tujuan penyimpanan melalui jendela dialog yang muncul.
+6. Tunggu proses selesai. Pop-up sukses akan muncul dan Anda bisa langsung menekan **BUKA FOLDER** untuk melihat hasilnya.
 
-## 📂 Output
+---
 
-Setiap halaman PDF akan dikonversi menjadi file gambar terpisah.
+## 📂 Format Output
 
-Contoh:
+Jika PDF memiliki **lebih dari 1 halaman**, aplikasi akan otomatis membuatkan folder baru dengan nama file tersebut. Jika hanya 1 halaman, file akan langsung disimpan di folder tujuan.
 
-```text
-document.pdf
-
-page_1.png
-page_2.png
-page_3.png
-```
-
-atau
+Contoh struktur jika Anda mengekspor file `Laporan_Keuangan.pdf` ke format **PNG**:
 
 ```text
-document.pdf
-
-page_1.jpg
-page_2.jpg
-page_3.jpg
+📁 Laporan_Keuangan_PNG/
+ ├── Laporan_Keuangan_hal_1.png
+ ├── Laporan_Keuangan_hal_2.png
+ └── Laporan_Keuangan_hal_3.png
 ```
+
+---
 
 ## 💡 Kegunaan
 
-* Mengubah dokumen PDF menjadi gambar
-* Membuat preview halaman PDF
-* Membagikan halaman PDF ke media sosial
-* Mengarsipkan dokumen dalam format gambar
-* Membuat materi presentasi
+* Mengubah dokumen PDF menjadi gambar raster.
+* Membuat preview halaman PDF dengan cepat.
+* Membagikan halaman PDF secara spesifik ke media sosial.
+* Mengarsipkan dokumen dalam format gambar.
+* Mengekstrak halaman tertentu dari PDF tebal untuk bahan presentasi.
 
-## 👨‍💻 Update Check
-* Dapat Update Aplikasi
+---
+
+## 🔄 Pembaruan (Update Check)
+
+Aplikasi ini dilengkapi dengan fitur OTA (Over-The-Air) update checker.
+
+Klik ikon (**🔄**) pada pojok kiri bawah aplikasi untuk mengecek ketersediaan versi terbaru. Jika tersedia, aplikasi akan mengunduh installer terbaru langsung ke folder **Downloads** di komputer Anda secara otomatis.
+
+---
 
 ## 👨‍💻 Developer
 
 **Debotz**
 
+---
+
 ## 📄 License
 
-Copyright © Debotz 2026
+Copyright © Debotz 2026. All Rights Reserved.
 
-Aplikasi ini dibuat untuk mempermudah proses konversi PDF ke PNG dan JPG dengan cepat, aman, dan mudah digunakan.
+Aplikasi ini dibuat untuk mempermudah proses konversi PDF ke PNG dan JPG dengan cepat, aman, dan mudah digunakan. Lihat file `license.txt` pada saat instalasi untuk detail lisensi penggunaan.

@@ -1,73 +1,102 @@
-# ✨ PDF Manager Debotz
+# 📄 PDF Manager Debotz
 
-PDF Manager Debotz adalah aplikasi desktop dengan desain antarmuka bergaya **Neo-Brutalism** yang interaktif. Aplikasi ini memungkinkan pengguna untuk mengonversi file PDF menjadi gambar berkualitas tinggi dalam format **PNG** dan **JPG/JPEG** dengan cepat, mudah, dan aman.
+<div align="center">
 
-## 🚀 Perdana Release v1.8.6
+# 💥 PDF Manager Debotz
 
-Dengan bangga kami mempersembahkan **PDF Manager Debotz v1.8.6**, rilis perdana yang dirancang untuk memberikan pengalaman pengelolaan dan konversi dokumen PDF yang lebih mudah, cepat, dan efisien.
+### Convert PDF to PNG & JPG with Style
 
-Versi ini menghadirkan berbagai fitur unggulan seperti konversi PDF ke PNG/JPG berkualitas tinggi, ekspor halaman pilihan, riwayat file pintar, pembaruan aplikasi langsung dari GitHub, serta berbagai peningkatan stabilitas dan pengalaman pengguna.
+![Version](https://img.shields.io/badge/Version-v1.8.6-000000?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-FFD500?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Stable-00C853?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Proprietary-FF5252?style=for-the-badge)
 
-Terima kasih telah menggunakan PDF Manager Debotz. Nantikan pembaruan dan fitur menarik berikutnya!
+</div>
+
+> ## 🚀 Perdana Release v1.8.6
+>
+> Dengan bangga kami mempersembahkan **PDF Manager Debotz v1.8.6**, aplikasi desktop bergaya **Neo-Brutalism** yang memungkinkan pengguna mengonversi file PDF menjadi gambar berkualitas tinggi dalam format **PNG** dan **JPG/JPEG** dengan cepat, mudah, dan aman.
 
 ---
 
 ## ✨ Fitur Unggulan
 
-* **Konversi Cepat & Berkualitas:** Ekspor halaman PDF ke resolusi tinggi (PNG atau JPG).
-* **Ekspor Pilihan (Selective Export):** Bebas memilih halaman tertentu saja yang ingin diekspor.
-* **Smart Auto-Folder:** Otomatis membuatkan folder khusus jika mengekspor lebih dari 1 halaman agar file tetap rapi.
-* **Riwayat Cerdas (History):** Menyimpan daftar 5 PDF terakhir yang dibuka untuk akses cepat di masa mendatang.
-* **In-App Update Checker:** Fitur bawaan untuk mengecek dan mengunduh versi terbaru aplikasi langsung dari GitHub tanpa perlu buka browser.
-* **Akses Cepat Folder:** Tombol "Buka Folder" langsung dari pop-up notifikasi setelah proses ekspor selesai.
-* **Offline Ready:** Berjalan sepenuhnya tanpa internet (kecuali untuk fitur Cek Pembaruan).
+| ⚡ Fitur                         | 📝 Deskripsi                                            |
+| ------------------------------- | ------------------------------------------------------- |
+| 🚀 Konversi Cepat & Berkualitas | Ekspor halaman PDF ke resolusi tinggi (PNG atau JPG).   |
+| 🎯 Ekspor Pilihan               | Bebas memilih halaman tertentu yang ingin diekspor.     |
+| 📂 Smart Auto-Folder            | Membuat folder otomatis saat mengekspor banyak halaman. |
+| 🕒 Riwayat Cerdas               | Menyimpan 5 file PDF terakhir untuk akses cepat.        |
+| 🔄 In-App Update Checker        | Cek dan unduh pembaruan langsung dari GitHub.           |
+| 📁 Akses Cepat Folder           | Buka folder hasil ekspor langsung dari notifikasi.      |
+| 🌐 Offline Ready                | Berjalan tanpa internet (kecuali fitur update).         |
 
 ---
 
-## 📋 System Requirements
+# 🖥️ System Requirements
 
-### Minimum Requirements
+<table>
+<tr>
+<th>🟨 Minimum Requirements</th>
+<th>🟩 Recommended Requirements</th>
+</tr>
 
-| Komponen         | Spesifikasi               |
-| ---------------- | ------------------------- |
-| Operating System | Windows 10 / 11 (64-bit)  |
-| Processor        | Intel Pentium atau setara |
-| RAM              | 4 GB                      |
-| Storage          | 200 MB ruang kosong       |
-| Display          | Resolusi 1366 × 768       |
+<tr>
+<td>
 
-### Recommended Requirements
+| Komponen  | Spesifikasi               |
+| --------- | ------------------------- |
+| OS        | Windows 10 / 11 (64-bit)  |
+| Processor | Intel Pentium atau setara |
+| RAM       | 4 GB                      |
+| Storage   | 200 MB                    |
+| Display   | 1366 × 768                |
 
-| Komponen         | Spesifikasi                                   |
-| ---------------- | --------------------------------------------- |
-| Operating System | Windows 11 (64-bit)                           |
-| Processor        | Intel Core i3 / AMD Ryzen 3 atau lebih tinggi |
-| RAM              | 8 GB                                          |
-| Storage          | 500 MB ruang kosong                           |
-| Display          | Resolusi 1920 × 1080                          |
+</td>
+
+<td>
+
+| Komponen  | Spesifikasi                  |
+| --------- | ---------------------------- |
+| OS        | Windows 11 (64-bit)          |
+| Processor | Intel Core i3 / AMD Ryzen 3+ |
+| RAM       | 8 GB                         |
+| Storage   | 500 MB                       |
+| Display   | 1920 × 1080                  |
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Cara Menggunakan
 
-1. Jalankan aplikasi **PDF Manager Debotz**.
-2. Klik tombol **PILIH FILE PDF** (Atau klik file dari menu **Riwayat** di sebelah kiri jika pernah membuka file sebelumnya).
-3. Halaman preview dokumen akan langsung muncul di layar utama.
-4. Pada panel sebelah kanan, pilih metode ekspor yang Anda inginkan:
+```text
+1. Jalankan PDF Manager Debotz
+2. Klik "PILIH FILE PDF"
+3. Preview halaman akan muncul
+4. Pilih metode ekspor
+5. Pilih folder tujuan
+6. Tunggu proses selesai
+7. Klik "BUKA FOLDER" untuk melihat hasil
+```
 
-   * **PNG FORMAT** (Mengekspor seluruh halaman ke format PNG)
-   * **JPG FORMAT** (Mengekspor seluruh halaman ke format JPG)
-   * **EKSPOR PILIHAN** (Pilih secara manual halaman mana saja yang ingin diekspor)
-5. Pilih folder tujuan penyimpanan melalui jendela dialog yang muncul.
-6. Tunggu proses selesai. Pop-up sukses akan muncul dan Anda bisa langsung menekan **BUKA FOLDER** untuk melihat hasilnya.
+### 📤 Pilihan Ekspor
+
+| Tombol            | Fungsi                       |
+| ----------------- | ---------------------------- |
+| 🟦 PNG FORMAT     | Ekspor semua halaman ke PNG  |
+| 🟨 JPG FORMAT     | Ekspor semua halaman ke JPG  |
+| 🟪 EKSPOR PILIHAN | Ekspor halaman tertentu saja |
 
 ---
 
 ## 📂 Format Output
 
-Jika PDF memiliki **lebih dari 1 halaman**, aplikasi akan otomatis membuatkan folder baru dengan nama file tersebut. Jika hanya 1 halaman, file akan langsung disimpan di folder tujuan.
+Jika PDF memiliki lebih dari satu halaman, aplikasi akan otomatis membuat folder baru.
 
-Contoh struktur jika Anda mengekspor file `Laporan_Keuangan.pdf` ke format **PNG**:
+### Contoh
 
 ```text
 📁 Laporan_Keuangan_PNG/
@@ -80,25 +109,27 @@ Contoh struktur jika Anda mengekspor file `Laporan_Keuangan.pdf` ke format **PNG
 
 ## 💡 Kegunaan
 
-* Mengubah dokumen PDF menjadi gambar raster.
-* Membuat preview halaman PDF dengan cepat.
-* Membagikan halaman PDF secara spesifik ke media sosial.
-* Mengarsipkan dokumen dalam format gambar.
-* Mengekstrak halaman tertentu dari PDF tebal untuk bahan presentasi.
+* 🖼️ Mengubah dokumen PDF menjadi gambar raster
+* ⚡ Membuat preview halaman PDF dengan cepat
+* 📱 Membagikan halaman PDF ke media sosial
+* 🗃️ Mengarsipkan dokumen dalam format gambar
+* 📊 Mengekstrak halaman tertentu untuk presentasi
 
 ---
 
 ## 🔄 Pembaruan (Update Check)
 
-Aplikasi ini dilengkapi dengan fitur OTA (Over-The-Air) update checker.
+Klik ikon **🔄** pada pojok kiri bawah aplikasi untuk memeriksa versi terbaru.
 
-Klik ikon (**🔄**) pada pojok kiri bawah aplikasi untuk mengecek ketersediaan versi terbaru. Jika tersedia, aplikasi akan mengunduh installer terbaru langsung ke folder **Downloads** di komputer Anda secara otomatis.
+Jika tersedia, installer terbaru akan otomatis diunduh ke folder **Downloads**.
 
 ---
 
 ## 👨‍💻 Developer
 
-**Debotz**
+### Debotz
+
+> Building simple tools with brutalist design & modern experience.
 
 ---
 
@@ -106,4 +137,16 @@ Klik ikon (**🔄**) pada pojok kiri bawah aplikasi untuk mengecek ketersediaan 
 
 Copyright © Debotz 2026. All Rights Reserved.
 
-Aplikasi ini dibuat untuk mempermudah proses konversi PDF ke PNG dan JPG dengan cepat, aman, dan mudah digunakan. Lihat file `license.txt` pada saat instalasi untuk detail lisensi penggunaan.
+Aplikasi ini dibuat untuk mempermudah proses konversi PDF ke PNG dan JPG dengan cepat, aman, dan mudah digunakan.
+
+➡️ **Lihat Lisensi:** [LICENSE](LICENSE)
+
+---
+
+<div align="center">
+
+### 💥 Made with Neo-Brutalism Design
+
+**PDF Manager Debotz v1.8.6**
+
+</div>

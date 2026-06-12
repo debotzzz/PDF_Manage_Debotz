@@ -1,4 +1,4 @@
-# PDF Manager Debotz
+# ✨ PDF Manager Debotz
 
 PDF Manager Debotz adalah aplikasi desktop dengan desain antarmuka bergaya **Neo-Brutalism** yang interaktif. Aplikasi ini memungkinkan pengguna untuk mengonversi file PDF menjadi gambar berkualitas tinggi dalam format **PNG** dan **JPG/JPEG** dengan cepat, mudah, dan aman.
 

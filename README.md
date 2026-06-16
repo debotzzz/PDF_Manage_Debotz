@@ -6,16 +6,16 @@
 
 ### Convert PDF to PNG & JPG with Style
 
-![Version](https://img.shields.io/badge/Version-v1.8.6-000000?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v1.8.8-000000?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-FFD500?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-00C853?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Proprietary-FF5252?style=for-the-badge)
 
 </div>
 
-> ## 🚀 Perdana Release v1.8.6
+> ## 🚀 Perdana Release v1.8.8
 >
-> Dengan bangga kami mempersembahkan **PDF Manager Debotz v1.8.6**, aplikasi desktop bergaya **Neo-Brutalism** yang memungkinkan pengguna mengonversi file PDF menjadi gambar berkualitas tinggi dalam format **PNG** dan **JPG/JPEG** dengan cepat, mudah, dan aman.
+> Dengan bangga kami mempersembahkan **PDF Manager Debotz v1.8.8**, aplikasi desktop bergaya **Neo-Brutalism** yang memungkinkan pengguna mengonversi file PDF menjadi gambar berkualitas tinggi dalam format **PNG** dan **JPG/JPEG** dengan cepat, mudah, dan aman.
 
 ---
 
@@ -148,6 +148,6 @@ Aplikasi ini dibuat untuk mempermudah proses konversi PDF ke PNG dan JPG dengan 
 
 ### 💥 Made with Neo-Brutalism Design
 
-**PDF Manager Debotz v1.8.6**
+**PDF Manager Debotz v1.8.8**
 
 </div>

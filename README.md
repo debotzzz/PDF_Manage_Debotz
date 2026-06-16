@@ -23,7 +23,7 @@
 
 | ⚡ Fitur                         | 📝 Deskripsi                                            |
 | ------------------------------- | ------------------------------------------------------- |
-| 🚀 Konversi Cepat & Berkualitas | Ekspor halaman PDF ke resolusi tinggi (PNG atau JPG).   |
+| 🚀 Konversi Cepat & Berkualitas | Ekspor PDF ke Word (Docx) atau gambar (PNG/JPG).        |
 | 🎯 Ekspor Pilihan               | Bebas memilih halaman tertentu yang ingin diekspor.     |
 | 📂 Smart Auto-Folder            | Membuat folder otomatis saat mengekspor banyak halaman. |
 | 🕒 Riwayat Cerdas               | Menyimpan 5 file PDF terakhir untuk akses cepat.        |
@@ -86,6 +86,7 @@
 
 | Tombol            | Fungsi                       |
 | ----------------- | ---------------------------- |
+| 🟦 WORD FORMAT    | Ekspor PDF ke format DOCX    |
 | 🟦 PNG FORMAT     | Ekspor semua halaman ke PNG  |
 | 🟨 JPG FORMAT     | Ekspor semua halaman ke JPG  |
 | 🟪 EKSPOR PILIHAN | Ekspor halaman tertentu saja |

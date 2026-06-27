@@ -13,9 +13,9 @@
 
 </div>
 
-> ## 🚀 Perdana Release v1.8.8
+> ## 🚀 Perdana Release v1.9.0
 >
-> Dengan bangga kami mempersembahkan **PDF Manager Debotz v1.8.8**, aplikasi desktop bergaya **Neo-Brutalism** yang memungkinkan pengguna mengonversi file PDF menjadi gambar berkualitas tinggi dalam format **PNG** dan **JPG/JPEG** dengan cepat, mudah, dan aman.
+> Dengan bangga kami mempersembahkan **PDF Manager Debotz v1.9.0**, aplikasi desktop bergaya **Neo-Brutalism** yang memungkinkan pengguna mengonversi file PDF menjadi gambar berkualitas tinggi dalam format **PNG** dan **JPG/JPEG**,  mengonversikan PDF ke Docx serta kompres PDF dengan cepat, mudah, dan aman.
 
 ---
 
@@ -90,6 +90,7 @@
 | 🟦 PNG FORMAT     | Ekspor semua halaman ke PNG  |
 | 🟨 JPG FORMAT     | Ekspor semua halaman ke JPG  |
 | 🟪 EKSPOR PILIHAN | Ekspor halaman tertentu saja |
+| 🟪 KOMPRES PDF | Ekspor halaman tertentu saja |
 
 ---
 
@@ -148,6 +149,6 @@ Aplikasi ini dibuat untuk mempermudah proses konversi PDF ke PNG dan JPG dengan 
 
 ### 💥 Made with Neo-Brutalism Design
 
-**PDF Manager Debotz v1.8.8**
+**PDF Manager Debotz v1.9.0**
 
 </div>
